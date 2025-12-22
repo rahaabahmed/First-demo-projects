@@ -19,10 +19,10 @@
 
 # --------------take 2 numbers and print true if 1st is greater than 2nd , otherwise print false-------------------------------
 
-a = float(input("Enter 1st number :"))
-b = float(input("Enter 2nd number :"))
+# a = float(input("Enter 1st number :"))
+# b = float(input("Enter 2nd number :"))
 
-if(a >= b):
-    print("True")
-else:    
-    print("False")
+# if(a >= b):
+#     print("True")
+# else:    
+#     print("False")
