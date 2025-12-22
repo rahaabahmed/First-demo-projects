@@ -27,7 +27,8 @@ null_dict = {}
 null_dict["name"] = "Rahaab"
 print(null_dict)
  
- ------------------Nested dictionary-------------------------------
+#  ------------------Nested dictionary-------------------------------
+
 student = {
     "name" : "rahul kumar",
     "subjects" :
@@ -41,7 +42,7 @@ student = {
 #nested dictionary
 print(student["subjects"]["chem"])
 
------------------------dictionary methods-----------------------
+# -----------------------dictionary methods-----------------------
  
 print(myDict.keys()) #returns all keys
 
